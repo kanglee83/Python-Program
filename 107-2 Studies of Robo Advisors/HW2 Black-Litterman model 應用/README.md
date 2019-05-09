@@ -3,7 +3,7 @@
 ## Visualization
 ### Input
 * Step1: 使用11檔ETF 2010/01~2017/12之adjusted close，以及事先設定的權重，計算各ETF每月買多少單位以及Rebalance之NAV
-**產出：
+** 產出：
 * 流程二
 
 ### Output
