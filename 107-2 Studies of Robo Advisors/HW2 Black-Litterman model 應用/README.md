@@ -3,12 +3,10 @@
 ## Visualization
 ### Input
 * Step1: 使用11檔ETF 2010/01~2017/12之adjusted close，以及事先設定的權重，計算各ETF每月買多少單位以及Rebalance之NAV
-
-@ 流程二
-* 流程二
-* 流程二
-* 流程二
-* 流程二
+* Step2: 計算CVol - PVol以及RVol - IVol
+* Step3: 將逐日spread採月平均成月spread，再根據大小順序分配予有view之權重
+* Step4: 以各ETF的當月前25個月均股價報酬率計算Var-Cov matrix，將Step3之結果作為P，套用Black-Litterman model，計算W-star
+* Step5: 以Step4之W-star，分別在CP spread及RI spread之方法下，計算各ETF每月買多少單位以及Rebalance之NAV，與Step1之結果相對比
 
 ### Output
 * NAV of portfolio rebalance each month
