@@ -13,8 +13,10 @@
 ### Output
 * Sharpe Ratios using date 2010/01 ~ 2017/12
   >    NAV       0.241041
-       NAV_CP    0.252825
-       NAV_RI    0.255849
+  >
+  >.   NAV_CP    0.252825
+  >
+  >.   NAV_RI    0.255849
 
 * NAV of portfolio rebalance each month
 ![image](https://github.com/kanglee83/Python-Program/blob/master/107-2%20Studies%20of%20Robo%20Advisors/HW2%20Black-Litterman%20model%20應用/Result%20Graph/NAV_adj_all.png)
