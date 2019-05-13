@@ -6,7 +6,7 @@
 * Step2: 計算CVol - PVol以及RVol - IVol
 * Step3: 將逐日spread採月平均成月spread，再根據大小順序分配予有view之權重
 * Step4: 以各ETF的當月前25個月均股價報酬率計算Var-Cov matrix，將Step3之結果作為P，套用Black-Litterman model，計算W-star
-  >         Omega以5%代入
+  >    Omega以5%代入
 * Step5: 以Step4之W-star，分別在CP spread及RI spread之方法下，計算各ETF每月買多少單位以及Rebalance之NAV，與Step1之結果相對比
 * Step6: 以幾何平均將NAV換成月報酬率，以算術平均將Libor_3m換成月利率，(月報酬率平均-月rf平均)/月報酬率標準差計算Sharpe Ratio
 
