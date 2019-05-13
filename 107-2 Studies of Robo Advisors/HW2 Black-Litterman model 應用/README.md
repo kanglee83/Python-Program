@@ -11,6 +11,9 @@
 * Step6: 以幾何平均將NAV換成月報酬率，以算術平均將Libor_3m換成月利率，(月報酬率平均-月rf平均)/月報酬率標準差計算Sharpe Ratio
 
 ### Output
+* Sharpe Ratios using date 2010/01 ~ 2017/12
+![image](https://github.com/kanglee83/Python-Program/blob/master/107-2%20Studies%20of%20Robo%20Advisors/HW2%20Black-Litterman%20model%20應用/Result%20Graph/Sharpe%20Ratios.png)
+
 * NAV of portfolio rebalance each month
 ![image](https://github.com/kanglee83/Python-Program/blob/master/107-2%20Studies%20of%20Robo%20Advisors/HW2%20Black-Litterman%20model%20應用/Result%20Graph/NAV_adj_all.png)
 
