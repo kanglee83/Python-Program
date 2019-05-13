@@ -12,8 +12,8 @@
 
 ### Output
 * Sharpe Ratios using date 2010/01 ~ 2017/12
-  >    NAV       0.241041
-  >    NAV_CP    0.252825
+  >    NAV       0.241041 \n
+  >    NAV_CP    0.252825 \n
   >    NAV_RI    0.255849
 
 * NAV of portfolio rebalance each month
