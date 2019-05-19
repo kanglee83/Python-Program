@@ -15,3 +15,9 @@
 
 ![image](https://github.com/kanglee83/Python-Program/blob/master/107-2%20Studies%20of%20Robo%20Advisors/HW3%20Volatility%20Index/Graphs/Daily%20realized%20vol.png)
 
+
+### Reference
+1. https://www.goldmansachsindices.com/products/GSDYNMO5
+2. https://www.solactive.com/downloads/GSDYNMO5_Factsheet.pdf
+3. https://www.solactive.com/downloads/GSDYNMO5.pdf
+
